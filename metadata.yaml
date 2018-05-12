@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43806#Sarah-Dillard-s-RideA-Story-of-the-Carolinas-in-1780
 gutenberg_issued: '2013-09-23'
 gutenberg_type: Text
 identifiers:
