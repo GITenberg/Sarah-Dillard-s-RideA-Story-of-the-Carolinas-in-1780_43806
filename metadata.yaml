@@ -1,0 +1,46 @@
+_repo: Sarah-Dillard-s-RideA-Story-of-the-Carolinas-in-1780_43806
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 43806-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2013-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Husband and wife -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'North Carolina -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+title: 'Sarah Dillard''s Ride: A Story of the Carolinas in 1780'
+url: http://www.gutenberg.org/ebooks/43806
